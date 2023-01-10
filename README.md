@@ -9,11 +9,11 @@ Requesito:
     
 NodeJS https://nodejs.org/en/
    
-    ### Passo a passo: 
-    -- git clone https://github.com/Juliana-Felix/Desafio-frontend-ig.git <br>
+  ### Passo a passo: 
+  -- git clone https://github.com/Juliana-Felix/Desafio-frontend-ig.git <br>
     Acesse o diretório api-desafio: Desafio-frontend-ig  <br>
-    -- yarn install  <br>
-    -- yarn dev
+  -- yarn install  <br>
+  -- yarn dev
 
 - Utilize o docker compose
     
