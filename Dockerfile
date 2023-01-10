@@ -1,12 +1,10 @@
 FROM node:18-alpine
 
-USER node
-
 WORKDIR /home/node/app
 
 COPY package*.json ./ 
 
-RUN yarn
+RUN yarn install
 
 COPY . .
 
