@@ -3,28 +3,28 @@ Desenvolvedora: Juliana Gomes | julianafelix.dev@gmail.com
 
 ## Como executar o projeto?
 
-Utilize o yarn 
+- Utilize o yarn 
 
-    Requesito:
+Requesito:
     
-    NodeJS https://nodejs.org/en/
+NodeJS https://nodejs.org/en/
    
-### Passo a passo: 
--- git clone https://github.com/Juliana-Felix/Desafio-frontend-ig.git <br>
-Acesse o diretório api-desafio: Desafio-frontend-ig  <br>
--- yarn install  <br>
--- yarn dev
+    ### Passo a passo: 
+    -- git clone https://github.com/Juliana-Felix/Desafio-frontend-ig.git <br>
+    Acesse o diretório api-desafio: Desafio-frontend-ig  <br>
+    -- yarn install  <br>
+    -- yarn dev
 
-Utilize o docker compose
+- Utilize o docker compose
     
-    Requesitos:
+Requesito:
     
-    Docker Compose https://docs.docker.com/compose/install/
+Docker Compose https://docs.docker.com/compose/install/
     
-### Passo a passo: 
--- git clone https://github.com/Juliana-Felix/Desafio-frontend-ig.git <br>
-Acesse o diretório api-desafio: Desafio-frontend-ig  <br>
- -- docker compose up
+  ### Passo a passo: 
+  -- git clone https://github.com/Juliana-Felix/Desafio-frontend-ig.git <br>
+  Acesse o diretório api-desafio: Desafio-frontend-ig  <br>
+  -- docker compose up
  
  Obs: Verifique a versão do docker instalada: docker-compose ou docker compose (v2)
  
